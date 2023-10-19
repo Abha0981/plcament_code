@@ -1,0 +1,3 @@
+best sorting algorithm 
+1. time complexity :- quick sort ( nlogn ) all cases
+2. fastest :- quick sort
